@@ -5,19 +5,18 @@ The Equalizer Web Application is a versatile tool designed for manipulating sign
 
 ## Task Description
 Develop a web application that allows users to open a signal and adjust the magnitude of specific frequency components through sliders. The application should be capable of operating in different modes:
-[![Watch the Demo Video]](Vedio/Vedio.mp4)
+### [![Watch the Demo Video]](Vedio/Vedio.mp4)
 1. **Uniform Range Mode:** Divide the total frequency range of the input signal into 10 equal ranges, each controlled by a slider in the UI.
-   ![Equalizer App](Images/Normal Image.jpeg)
-   ![Equalizer App](Images/Normal Image.jpeg)
-   ![Equalizer App](Images/patient image after equalizing.jpeg)
+   ![Equalizer App](Images/NormalImage.jpeg)
+   ![Equalizer App](Images/patientimageafterequalizing.jpeg)
    ![Equalizer App](patient_image_paradoxical_abnormality.jpeg)
 2. **Vowels Mode:** Enable control over the magnitude of specific vowels in speech signals.
 3. **Musical Instruments Mode:** Adjust the magnitude of specific musical instruments in the input music signal.
 4. **Biological Signal Abnormalities:** Control the magnitude of specific abnormalities (e.g., ECG arrhythmia) in the input biological signal.
-   ![Equalizer App](Images/GIF Heart Valves.gif)
+   ![Equalizer App](Images/GIFHeartValves.gif)
    ![Equalizer App](Images/Wiggers_Diagram.svg.png)
-   ![Equalizer App](Images/Normal Split S2.jpeg)
-   ![Equalizer App](Images/S2  Heart Image.png)
+   ![Equalizer App](Images/NormalSplitS2.jpeg)
+   ![Equalizer App](Images/S2HeartImage.png)
 
 ## Features
 - Seamless switching between modes through an option menu or combobox.
@@ -42,6 +41,6 @@ Ensure that you have the necessary dependencies installed and follow the user do
 3. Run the application.
 4. Load a signal file and start exploring the different modes.
 
-For any issues or questions, contact [Your Name/Team] at [your.email@example.com].
+For any issues or questions, contact [Your Name/Team] at [mmansy@gmail.com].
 
 Thank you for using the Equalizer Web Application!

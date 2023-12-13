@@ -41,6 +41,6 @@ Ensure that you have the necessary dependencies installed and follow the user do
 3. Run the application.
 4. Load a signal file and start exploring the different modes.
 
-For any issues or questions, contact [Your Name/Team] at [mmansy@gmail.com].
+For any issues or questions, contact Mahmoud Mansy at [mmansy132003@gmail.com].
 
 Thank you for using the Equalizer Web Application!

@@ -2,24 +2,26 @@
 
 ## Introduction
 
-The Equalizer Web Application is a tool designed for signal processing in the music and speech industry. It also finds applications in various biomedical scenarios, such as hearing aid abnormalities detection.
+The Equalizer Web Application is a tool designed for signal processing in the music and speech industry. It also finds applications in various biomedical scenarios, such as hearing aid abnormalities detection. 
+
+### [![Watch the Demo Video]](https://clipchamp.com/watch/Mo0L2R7mFch)
+
 
 ## Description
 
 The goal of this project is to develop a web application that allows users to open a signal, manipulate the magnitude of specific frequency components through sliders, and reconstruct the modified signal. The application offers different working modes:
 
-
-### [![Watch the Demo Video]](https://clipchamp.com/watch/Mo0L2R7mFch)
-
-
-1. **Uniform Range Mode:** Divides the total frequency range of the input signal into 10 equal ranges, each controlled by a slider.
+### 1. **Uniform Range Mode:** Divides the total frequency range of the input signal into 10 equal ranges, each controlled by a slider.
 
    
- ![Equalizer App](Images/NormalImage.jpeg)
-   ![Equalizer App](Images/patientimageafterequalizing.jpeg)
    ![Equalizer App](patient_image_paradoxical_abnormality.jpeg)
+   ![Equalizer App](Images/patientimageafterequalizing.jpeg)
+ ![Equalizer App](Images/NormalImage.jpeg)
 
-3. **Biological Signal Abnormalities:** Permits users to control the magnitude of specific abnormalities (e.g., ECG arrhythmia) in the input biological signal.
+
+
+
+### 2. **Biological Signal Abnormalities:** Permits users to control the magnitude of specific abnormalities (e.g., ECG arrhythmia) in the input biological signal.
 
 
    ![Equalizer App](Images/Wiggers_Diagram.svg.png)
@@ -28,9 +30,9 @@ The goal of this project is to develop a web application that allows users to op
   ![Equalizer App](Images/GIFHeartValves.gif)
 
 
-5. **Musical Instruments Mode:** Allows users to control the magnitude of specific musical instruments in the input music signal.
+### 3. **Musical Instruments Mode:** Allows users to control the magnitude of specific musical instruments in the input music signal.
 
-6. **Vowels Mode:** Enables users to control the magnitude of specific vowels in the speech signal.
+### 4. **Vowels Mode:** Enables users to control the magnitude of specific vowels in the speech signal.
 
    
 Users can easily switch between modes, and the user interface (UI) adapts to display relevant sliders for each mode. The UI includes two signal viewers for input and output signals, synchronized in time, and two spectrograms that reflect changes made through the equalizer sliders.

@@ -5,7 +5,8 @@ The Equalizer Web Application is a versatile tool designed for manipulating sign
 
 ## Task Description
 Develop a web application that allows users to open a signal and adjust the magnitude of specific frequency components through sliders. The application should be capable of operating in different modes:
-### [![Watch the Demo Video]](Vedio/Vedio.mp4)
+
+### [![Watch the Demo Video]](https://clipchamp.com/watch/Mo0L2R7mFch)
 1. **Uniform Range Mode:** Divide the total frequency range of the input signal into 10 equal ranges, each controlled by a slider in the UI.
    ![Equalizer App](Images/NormalImage.jpeg)
    ![Equalizer App](Images/patientimageafterequalizing.jpeg)

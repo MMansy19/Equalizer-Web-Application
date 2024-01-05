@@ -24,8 +24,6 @@ The goal of this project is to develop a web application that allows users to op
 ### 2. **Biological Signal Abnormalities:** Permits users to control the magnitude of specific abnormalities (e.g., ECG arrhythmia) in the input biological signal.
 
 
-  ![Equalizer App](Images/GIFHeartValves.gif)
-   ![Equalizer App](Images/S2HeartImage.png)
    ![Equalizer App](Images/Wiggers_Diagram.svg.png)
 
 

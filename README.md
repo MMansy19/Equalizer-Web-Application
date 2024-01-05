@@ -4,7 +4,7 @@
 
 The Equalizer Web Application is a tool designed for signal processing in the music and speech industry. It also finds applications in various biomedical scenarios, such as hearing aid abnormalities detection. 
 
-### [![Watch the Demo Video]](https://clipchamp.com/watch/Mo0L2R7mFch)
+## 🎥 [![Watch the Demo Video]](https://clipchamp.com/watch/Mo0L2R7mFch)
 
 
 ## Description

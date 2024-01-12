@@ -16,7 +16,6 @@ The goal of this project is to develop a web application that allows users to op
    
    ![Equalizer App](patient_image_paradoxical_abnormality.jpeg)
    ![Equalizer App](Images/patientimageafterequalizing.jpeg)
- ![Equalizer App](Images/NormalImage.jpeg)
 
 
 
@@ -24,6 +23,7 @@ The goal of this project is to develop a web application that allows users to op
 ### 2. **Biological Signal Abnormalities:** Permits users to control the magnitude of specific abnormalities (e.g., ECG arrhythmia) in the input biological signal.
 
 
+ ![Equalizer App](project-3.2.jpeg)
    ![Equalizer App](Images/Wiggers_Diagram.svg.png)
 
 
@@ -31,6 +31,7 @@ The goal of this project is to develop a web application that allows users to op
 
 ### 4. **Vowels Mode:** Enables users to control the magnitude of specific vowels in the speech signal.
 
+ ![Equalizer App](project-3.1.jpeg)
    
 Users can easily switch between modes, and the user interface (UI) adapts to display relevant sliders for each mode. The UI includes two signal viewers for input and output signals, synchronized in time, and two spectrograms that reflect changes made through the equalizer sliders.
 

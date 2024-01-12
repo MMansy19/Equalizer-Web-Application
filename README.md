@@ -24,7 +24,6 @@ The goal of this project is to develop a web application that allows users to op
 
 
  ![Equalizer App](project-3.2.jpeg)
-   ![Equalizer App](Images/Wiggers_Diagram.svg.png)
 
 
 ### 3. **Musical Instruments Mode:** Allows users to control the magnitude of specific musical instruments in the input music signal.
